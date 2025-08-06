@@ -99,7 +99,19 @@ Passionate about building scalable systems and sharing knowledge through writing
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=engmoabdu&label=Profile%20views&color=0e75b6&style=flat" alt="engmoabdu" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engmoabdu&margin-w=15&no-bg=true&no-frame=true" alt="engmoabdu" /></a>
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img 
+    src="https://komarev.com/ghpvc/?username=engmoabdu&label=Profile%20views&color=0e75b6&style=flat" 
+    alt="Profile views" 
+    style="height: 20px; margin-bottom: 10px;" 
+  />
+  <br />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=engmoabdu&margin-w=10&row=1&column=6" 
+      alt="GitHub Trophies" 
+      style="max-width: 100%; height: auto;" 
+    />
+  </a>
 </p>
+

@@ -75,9 +75,9 @@ Passionate about building scalable systems and sharing knowledge through writing
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xsol05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsol05&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xsol05&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engmoabdu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engmoabdu&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=engmoabdu&theme=dark"/>
 </div>
 
 ---

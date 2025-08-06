@@ -16,6 +16,11 @@ Passionate about building scalable systems and sharing knowledge through writing
 
 ---
 
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://engmoabdu.netlify.app)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & DevOps

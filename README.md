@@ -17,7 +17,7 @@ Passionate about building scalable systems and sharing knowledge through writing
 ---
 
 ## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://engmoabdu.netlify.app)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/mohammed-abdu/5e34b29b-0aef-4699-9706-08d644092117?view=html)
 
 ---
 
